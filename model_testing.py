@@ -7,7 +7,6 @@ from sklearn.metrics import r2_score
 from joblib import dump, load
 import datetime
 from sys import argv
-from custom_funcs import CatNum
 
 print('model testing started')
 
